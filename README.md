@@ -1,12 +1,11 @@
 # AI/ML Portfolio
 
-Projects completed through the Break Through Tech AI Fellowship.
+Projects completed through the Break Through Tech AI Program.
 
 ## Projects
 
 | Project | Topic | Skills |
 |---------|-------|--------|
-| Customer Churn Prediction | Machine Learning | Python, Scikit-learn |
-| CNN Image Classification | Deep Learning | TensorFlow, CNNs |
-| RAG Question Answering | LLMs | RAG, Prompt Engineering |
-| Decision Trees | End-to-End ML | Python, Data Analysis | KNN 
+| Census Income Prediction (Capstone) | Binary Classification, Machine Learning | Python, Scikit-learn, TensorFlow/Keras, Data Preprocessing, Feature Engineering, Model Evaluation |
+| Document RAG System | LLMs | RAG, Prompt Engineering, Vector Retrieval |
+
