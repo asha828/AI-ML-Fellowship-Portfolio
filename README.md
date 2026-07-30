@@ -1,2 +1,12 @@
-# AI-ML-Fellowship-Portfolio
-Portfolio of AI/ML projects demonstrating hands-on experience with predictive modeling, deep learning, LLM applications, RAG pipelines, and data analysis in Python.
+# AI/ML Portfolio
+
+Projects completed through the Break Through Tech AI Fellowship.
+
+## Projects
+
+| Project | Topic | Skills |
+|---------|-------|--------|
+| Customer Churn Prediction | Machine Learning | Python, Scikit-learn |
+| CNN Image Classification | Deep Learning | TensorFlow, CNNs |
+| RAG Question Answering | LLMs | RAG, Prompt Engineering |
+| Decision Trees | End-to-End ML | Python, Data Analysis | KNN 
